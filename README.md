@@ -6,9 +6,9 @@ Author: www.helloluke.com
 
 Theme based on:
 
-|
-|
-|- Boostrap 3
+
+
+ Boostrap 3
 |
 |
 |- Jquery
